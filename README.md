@@ -1,2 +1,3 @@
 # ds_module_3_python-challenge
 Homework for Module 3 - python-challenge
+This Python project has two components. One is PyBank where I completed a financial analysis over the course of 86 total months producing results such as total amount of funding over the 86 month duration, as well as the average change from month to month, and the greatest increase and decrease in profits. Finally producing a text file with those results. The second component was PyPoll where I completed an election summary with the total number of votes. The percentage of votes and the amount of votes for each candidate and the winner of the election. These results where produced in a text file as well.
